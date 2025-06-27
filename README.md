@@ -7,11 +7,9 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
 [![Gradio](https://img.shields.io/badge/Gradio-Interface-brightgreen.svg)](https://gradio.app/)
 
-<!-- 
 🎬 Demo GIF/Screenshot Placeholder 
 Add your demo GIF or screenshot here to showcase the interface in action
-![Demo GIF](demo.gif)
--->
+![Demo JPG](demo.png)
 
 ## 📖 Overview
 
@@ -73,8 +71,8 @@ The application features a user-friendly **Gradio web interface** that allows us
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ai-signature-verification.git
-   cd ai-signature-verification
+   git clone https://github.com/shahram8708/AI-Based-Signature-Verification-System.git
+   cd AI-Based-Signature-Verification-System
    ```
 
 2. **Create Virtual Environment**:
@@ -196,7 +194,7 @@ ai-signature-verification/
 ├── requirements.txt              # Python dependencies
 ├── best_signature_model.h5       # Trained model weights (auto-generated)
 ├── LICENSE                       # MIT License
-├── demo.gif                      # Demo visualization (add your own)
+├── demo.gif                      # Demo visualization 
 └── signature_data/               # Training data directory (auto-generated)
     ├── genuine/                  # Genuine signature pairs
     └── forged/                   # Forged signature pairs
@@ -309,10 +307,10 @@ I'm passionate about developing practical AI solutions that solve real-world pro
 
 ### 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-ram-0682a7284/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BxIdcpx2%2FQyihO1bfBZXHyQ%3D%3D)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahram8708)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahram8708@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ramofficial.netlify.app/project)
 
 ### 💝 Support the Project
 
@@ -341,10 +339,10 @@ If you found this project helpful, please consider:
 
 ## 📊 Repository Stats
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/ai-signature-verification)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/ai-signature-verification)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/ai-signature-verification)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-signature-verification?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/shahram8708/AI-Based-Signature-Verification-System)
+![GitHub issues](https://img.shields.io/github/issues/shahram8708/AI-Based-Signature-Verification-System)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/shahram8708/AI-Based-Signature-Verification-System)
+![GitHub stars](https://img.shields.io/github/stars/shahram8708/AI-Based-Signature-Verification-System?style=social)
 
 ---
 
