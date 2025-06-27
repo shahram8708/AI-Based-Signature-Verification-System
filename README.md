@@ -278,7 +278,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 Shah Ram
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -301,7 +301,7 @@ SOFTWARE.
 
 ## 👨‍💻 Author & Connect
 
-**[Your Name]** - *AI/ML Engineer & Deep Learning Enthusiast*
+**Shah Ram** - *AI/ML Engineer & Deep Learning Enthusiast*
 
 I'm passionate about developing practical AI solutions that solve real-world problems. This signature verification system represents the intersection of computer vision, deep learning, and user experience design.
 
